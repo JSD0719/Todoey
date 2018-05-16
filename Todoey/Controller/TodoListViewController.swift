@@ -28,10 +28,6 @@ class TodoListViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print(dataFilePath)
-        
-        
-        
     }
 
     //MARK: - Tableview Datasource Methods
